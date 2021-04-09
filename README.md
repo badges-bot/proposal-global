@@ -1,4 +1,6 @@
 # [globalThis](https://www.npmjs.com/package/globalthis)
+
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
 ECMAScript Proposal, specs, and reference implementation for `globalThis`
 
 Spec drafted by [@ljharb](https://github.com/ljharb).
